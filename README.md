@@ -1,37 +1,37 @@
-### Hey there! I'm Kabo 👋
+# Kabo
 
-## 🎯 About Me
+Finance | Supply Chain Graduate | Coding Enthusiast 💻
 
-- 📦 Supply Chain graduate venturing into the world of code
-- 🔧 Currently learning Backend Development
-- 🌱 Building my foundation with HTML & CSS
-- 💡 Combining logistics thinking with software solutions
-- 🚀 Transitioning from managing supply chains to building applications
-- ☕ Fueled by curiosity and coffee
+## Tech Stack
 
-## 🛠️ Tech Stack
+**Frontend**
+- HTML
+- CSS
+- React (Learning)
 
-**Currently Learning:**
-- 🖥️ Backend Development
+**Backend** (Learning)
+- Node.js / Python / Javascript 
+- APIs & Server Architecture
+- Database Management
 
-**Skills:**
-- 📝 HTML
-- 🎨 CSS
+**Tools**
+- Git & GitHub
+- VS Code
 
-**Tools:**
-- 💻 Visual Studio Code
-- 🐙 Git & GitHub
+## About 🎯
 
-## 🌟 My Journey
+Working in finance by day, coding by night. Supply chain graduate exploring backend development as a passion project. Bringing analytical thinking and systems optimization mindset to software.
 
-From analyzing supply chains to writing code - I'm on a mission to merge my logistics background with software development. Every line of code is a step toward building solutions that matter.
+## Current Focus 
 
-## 🤝 Connect with Me
+Building backend skills and understanding server-side logic in my free time.
 
-Let's connect and grow together!
+## Projects
 
-# Discord - kabodev
+## Interests
+- FiveM / Helix Development 
+- Web Development 
 
----
-
-*"The best time to start was yesterday. The next best time is now."*
+## Connect 🌐
+Connect With Me!
+Discord: kabodev
