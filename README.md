@@ -43,6 +43,7 @@ Supply chain graduate exploring backend development as a passion project. Bringi
 
 - 🎮 **FiveM / Helix Development** - Building immersive game experiences
 - 🌐 **Web Development** - Creating functional and beautiful websites
+- :computer: **UE5** - Creating landscapes and infrastructure
 
 ---
 
