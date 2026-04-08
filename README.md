@@ -2,13 +2,11 @@
 
 ### A passionate developer from the US
 
-- 🔭 I'm currently working on a **Mobile Detailing Website and Learning**
+- 🔭 I'm currently working on a **Helix RP Server on UE5**
 
-- 🌱 I'm currently learning **Python**
+- 🌱 I'm currently learning **Python/JS**
 
-- 👯 I'm looking to collaborate on **Any Projects!**
-
-- 🤝 I'm looking for help with **Learning Backend Development and System Design**
+- 👯 I'm looking to collaborate on **Helix RP Server**
 
 - 📫 How to reach me **brownerdev on discord**
 
